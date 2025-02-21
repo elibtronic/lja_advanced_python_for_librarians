@@ -15,7 +15,7 @@ Material for Advanced Python for Librarians
 
 ## Week 3
 
-[Week 3 Warm up](https://colab.research.google.com/github/elibtronic/lja_advanced_python_for_librarians/blob/main/Week_4_Warmup.ipynb)
+[Week 3 Warm up](https://colab.research.google.com/github/elibtronic/lja_advanced_python_for_librarians/blob/main/Week_3_Warmup.ipynb)
 
 
 ## Week 4
