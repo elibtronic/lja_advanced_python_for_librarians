@@ -11,11 +11,11 @@ Material for Advanced Python for Librarians
 
 
 ## Week 2
-[Week 2 Warm up](https://colab.research.google.com/github/elibtronic/lja_advanced_python_for_librarians/blob/main/Week_2_Warmup.ipynb) **in progress**
+[Week 2 Warm up](https://colab.research.google.com/github/elibtronic/lja_advanced_python_for_librarians/blob/main/Week_2_Warmup.ipynb)
 
-[Week 2 Workalong](https://colab.research.google.com/github/elibtronic/lja_advanced_python_for_librarians/blob/main/Week_2_Workalong.ipynb) **in progress**
+[Week 2 Workalong](https://colab.research.google.com/github/elibtronic/lja_advanced_python_for_librarians/blob/main/Week_2_Workalong.ipynb)
 
-[Week 2 Homework](https://colab.research.google.com/github/elibtronic/lja_advanced_python_for_librarians/blob/main/Week_2_Homework.ipynb) **in progress**
+[Week 2 Homework](https://colab.research.google.com/github/elibtronic/lja_advanced_python_for_librarians/blob/main/Week_2_Homework.ipynb)
 
 
 ## Week 3
