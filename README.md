@@ -29,6 +29,6 @@ Material for Advanced Python for Librarians
 
 ## Week 4
 
-[Week 4 Workalong](https://colab.research.google.com/github/elibtronic/lja_advanced_python_for_librarians/blob/main/Week_4_Workalong.ipynb) **in progress**
+[Week 4 Workalong](https://colab.research.google.com/github/elibtronic/lja_advanced_python_for_librarians/blob/main/Week_4_Workalong.ipynb)
 
-[Week 4 Homework](https://colab.research.google.com/github/elibtronic/lja_advanced_python_for_librarians/blob/main/Week_4_Homework.ipynb) **in progress**
+[Week 4 Homework](https://colab.research.google.com/github/elibtronic/lja_advanced_python_for_librarians/blob/main/Week_4_Homework.ipynb)
